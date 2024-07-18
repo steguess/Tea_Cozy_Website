@@ -1,7 +1,8 @@
 ![Tea Cozy Webpage Screenshot](teas.png)
 
 # Tea Cozy Project Repository
-Welcome to the Tea Cozy Website Project! This project is a beautiful and responsive web page that showcases a fictional tea shop named "The Tea Cozy." The design and layout follow specific requirements provided by Codecademy, ensuring a professional and polished look.
+Welcome to the Tea Cozy Website Project! 
+This project is a beautiful and responsive web page that showcases a fictional tea shop named "The Tea Cozy." The design and layout follow specific requirements provided by Codecademy, ensuring a professional and polished look.
 
 # Project Requirements📋
 The project was created based on the following requirements:
@@ -13,7 +14,6 @@ Each location block has a semi-transparent background.
 A footer section with centered content and smaller copyright text aligned to the left.
 
 # Features🌟
-Responsive Design: The website is fully responsive and looks great on all devices.
 Fixed Navigation: The header navigation stays fixed at the top as you scroll.
 Beautiful Imagery: High-quality images are used to enhance the visual appeal.
 Semantic HTML: Clean and semantic HTML5 code.
@@ -26,16 +26,14 @@ Code kopieren
 │
 ├── index.html
 ├── style.css
-└── assets
-    ├── images
-    │   ├── tea-cozy-logo.webp
-    │   ├── mission-background.webp
-    │   ├── berryblitz.webp
-    │   ├── spiced-rum.webp
-    │   ├── donut.webp
-    │   ├── myrtle-ave.webp
-    │   └── bedford-bizarre.webp
-    └── fonts
+├── tea-cozy-logo.webp
+├── mission-background.webp
+├── berryblitz.webp
+├── spiced-rum.webp
+├── donut.webp
+├── myrtle-ave.webp
+└── bedford-bizarre.webp
+
 # Final Output🖥️
 
 
