@@ -40,8 +40,6 @@ Code kopieren
 ![Tea Cozy Webpage Screenshot](cozy_tea.png)
 
 
-# Live Demo 🌐 
-Check out the live demo of the Tea Cozy Website here.
 
 # Acknowledgements 👏 
 This project was built as part of the Codecademy curriculum, following their guidelines and design requirements. Thanks to Codecademy for providing such an engaging and educational experience!
