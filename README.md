@@ -1,3 +1,5 @@
+![Tea Cozy Webpage Screenshot](teas.png)
+
 # Tea Cozy Project Repository
 Welcome to the Tea Cozy Website Project! This project is a beautiful and responsive web page that showcases a fictional tea shop named "The Tea Cozy." The design and layout follow specific requirements provided by Codecademy, ensuring a professional and polished look.
 
