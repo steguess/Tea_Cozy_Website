@@ -36,6 +36,10 @@ Code kopieren
     └── fonts
 # Final Output🖥️
 
+
+![Tea Cozy Webpage Screenshot](tea-cozy-final.png)
+
+
 # Live Demo 🌐 
 Check out the live demo of the Tea Cozy Website here.
 
