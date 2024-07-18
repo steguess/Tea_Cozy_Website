@@ -37,7 +37,7 @@ Code kopieren
 # Final Output🖥️
 
 
-![Tea Cozy Webpage Screenshot](tea-cozy-final.png)
+![Tea Cozy Webpage Screenshot](cozy_tea.png)
 
 
 # Live Demo 🌐 
